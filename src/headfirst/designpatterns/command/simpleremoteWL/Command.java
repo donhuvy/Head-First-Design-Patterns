@@ -1,6 +1,6 @@
 package headfirst.designpatterns.command.simpleremoteWL;
 
-@FunctionalInterface 
+@FunctionalInterface
 public interface Command {
-	public void execute();
+    void execute();
 }
